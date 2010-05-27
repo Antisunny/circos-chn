@@ -4,15 +4,12 @@
 
 Circos document in Chinese.
 
-= Memebers =
+= Members =
 
  # Gentle Yang / nodexy
  # Coming sooooon ...
 
 = Content =
-
-=== Mannual ===
- # None
 
 === Tutorials ===
  # Chapter 1
@@ -26,6 +23,9 @@ Circos document in Chinese.
  # Chapter 9
  # Chapter 10
 
+=== Mannual ===
+ # None
+
 === README ===
  # None
 
@@ -36,4 +36,4 @@ Circos document in Chinese.
 
 = Acknowledgement =
 
- # None
+ # Martin Krzywinski
