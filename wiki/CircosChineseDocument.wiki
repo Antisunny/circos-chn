@@ -1,17 +1,17 @@
-#summary Introduction of all Chinese documents of Circos.
+#summary CIRCOS中文教程 翻译项目
 
-= Welcome =
+= 欢迎 =
 
-Circos document in Chinese.
+CIRCOS中文教程 翻译项目
 
-= Members =
+= 成员 =
 
- # Gentle Yang / nodexy
+ # nodexy | 子江
  # Coming sooooon ...
 
-= Content =
+= 翻译内容 =
 
-== Tutorials ==
+== A. Tutorials - CIRCOS教程 ==
  # Chapter 1
  # Chapter 2
  # Chapter 3
@@ -23,20 +23,20 @@ Circos document in Chinese.
  # Chapter 9
  # Chapter 10
 
-== Presentation ==
+== B. Presentation - 演示等 ==
  # None
 
-=== Talks ===
+=== B1. Talks - 访谈 ===
  # None
 
-=== Articles ===
+=== B2. Articles - 文章 ===
  # None
 
-=== README ===
+=== B3. README ===
  # None
 
 
 
-= Acknowledgement =
+= Acknowledgement 鸣谢 =
 
  # Martin Krzywinski
