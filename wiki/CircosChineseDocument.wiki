@@ -1,8 +1,8 @@
-#summary CIRCOS中文教程 翻译项目
+#summary CIRCOS中文文档 翻译项目
 
 = 欢迎 =
 
-CIRCOS中文教程 翻译项目
+CIRCOS中文文档 翻译项目
 
 = 成员 =
 
