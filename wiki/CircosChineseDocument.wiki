@@ -12,7 +12,8 @@ CIRCOS中文文档 翻译项目
 = 翻译内容 =
 
 == A. Tutorials - CIRCOS教程 ==
- # Chapter 1
+章节            翻译/进度     Review/进度 
+ # Chapter 1   
  # Chapter 2
  # Chapter 3
  # Chapter 4
