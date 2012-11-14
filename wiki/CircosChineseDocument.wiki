@@ -12,6 +12,7 @@ CIRCOS中文文档 翻译项目
 = 翻译内容 =
 
 == A. Tutorials - CIRCOS教程 ==
+原稿链接 http://circos.ca/documentation/tutorials/ 
 章节            翻译/进度     Review/进度 
  # Chapter 1   
  # Chapter 2
@@ -28,6 +29,7 @@ CIRCOS中文文档 翻译项目
  # None
 
 === B1. Talks - 访谈 ===
+原稿链接 http://circos.ca/presentations
  # None
 
 === B2. Articles - 文章 ===
@@ -36,7 +38,9 @@ CIRCOS中文文档 翻译项目
 === B3. README ===
  # None
 
-
+=== B4. COURSE ===
+原稿链接 http://circos.ca/documentation/course 
+ # None
 
 = Acknowledgement 鸣谢 =
 
